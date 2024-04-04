@@ -1,3 +1,7 @@
+body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .long{
 text-align: center;
 }
@@ -12,10 +16,15 @@ margin-left: 40px;
 width: 500px;
 height: 400px;
 margin-left: 1000px;
+object-fit: contain;
+object-position: 0;
 }
 .source{
-margin-left: 1500px;
+margin-left: 1050px;
 }
 .sinigang{
 text-align: center;
+}
+.source2{
+    font-style: italic;
 }
